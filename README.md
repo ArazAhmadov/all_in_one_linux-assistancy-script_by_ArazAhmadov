@@ -1,3 +1,5 @@
+Hey folks,
+
 System administration always requires technical knowledge, attention, and productivity. Writing lengthy commands, remembering them correctly, and coordinating various operations has always been a challenging process. To overcome these difficulties, I’ve created a script called the “Linux Assistancy Tool”! 🎉
 
 Why this tool? 
@@ -38,3 +40,6 @@ Advantages:
 So,the mentioned tool will be an indispensable tool for system administrators. You can now manage all the main system parameters with just a few clicks, without wasting time typing long commands. Save time on Linux operating systems and make your work more efficient! 🚀
 
 Have fun :) 
+
+Sincerely,
+Araz Ahmadov
