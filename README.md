@@ -8,7 +8,7 @@ This tool is designed to save some time for professionals working with Linux ope
 
 Key Features of the Script: 
 
-✅ 60 Core Functions: The script collects the most needed commands for Linux system administration in a single place. You can easily execute commands via the menu:
+✅ 60 Core Functions: The script collects some needed commands for Linux system administration in a single place. You can easily execute commands via the menu:
 
 Checking and changing hostname;
 
