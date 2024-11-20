@@ -10,16 +10,26 @@ Key Features of the Script:
 
 ✅ 60 Core Functions: The script collects the most needed commands for Linux system administration in a single place. You can easily execute commands via the menu:
 
-Checking and changing hostname
-Monitoring kernel parameters and system CPU information
-Analyzing RAM and disk capacity
-Details of network interfaces
-List of active services and users
-Network traffic analysis, checking open ports
-Firewall management (enable/disable)
-Detecting large files during operations and analyzing CPU performance
-Basic user and group management commands
-Disk health monitoring and LVM details
+Checking and changing hostname;
+
+Monitoring kernel parameters and system CPU information;
+
+Analyzing RAM and disk capacity;
+
+Details of network interfaces;
+
+List of active services and users;
+
+Network traffic analysis, checking open ports;
+
+Firewall management (enable/disable);
+
+Detecting large files during operations and analyzing CPU performance;
+
+Basic user and group management commands;
+
+Disk health monitoring and LVM details;
+
 Custom commands: Rebooting the system, starting/stopping services, changing file and folder permissions, etc.
 
 What’s the goal? 
