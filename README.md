@@ -30,7 +30,7 @@ Basic user and group management commands;
 
 Disk health monitoring and LVM details;
 
-Custom commands: Rebooting the system, starting/stopping services, changing file and folder permissions, etc.
+Custom commands: rebooting the system, starting/stopping services, changing file and folder permissions, etc.
 
 What’s the goal? 
 
