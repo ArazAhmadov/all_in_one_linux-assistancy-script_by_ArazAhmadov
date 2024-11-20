@@ -28,7 +28,7 @@ The main goal of writing this script is to increase productivity in system admin
 
 How to use it? 
 
-Once you run the script in the terminal, a menu will appear. By selecting a number from the menu, you can easily perform the desired operation. For example:
+Once you run the script in the terminal, a menu will appear. By selecting each desired number from the menu, you can easily perform the desired operation. For example:
 
 Want to change the hostname? Select option 2.
 Want to check CPU and system information? Select option 4.
