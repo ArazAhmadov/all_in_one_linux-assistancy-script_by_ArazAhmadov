@@ -1,1 +1,1 @@
-# all_in_one_linux-assitancy-script_by_ArazAhmadov
+# all_in_one_linux-assistancy-script_by_ArazAhmadov
